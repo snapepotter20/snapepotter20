@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sahil-kumar-5487561ba" target="blank"><img align="center" src="https://is.gd/TqXScA" alt="" height="40" width="40" /></a>&nbsp;
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/rickndmorty20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rickndmorty20" height="30" width="40" /></a>&nbsp;
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/rickndmorty20" target="blank"><img align="center" src="https://is.gd/fpYMUv" alt="https://www.codechef.com/users/rickndmorty20" height="30" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/skk280540" target="blank"><img align="center" src="https://is.gd/1OKls7" alt="" height="40" width="40" /></a>&nbsp;
 <a href="https://www.leetcode.com/jumboclif42" target="blank"><img align="center" src="https://is.gd/bQH4T4" alt="jumboclif42" height="40" width="40" /></a>&nbsp;
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@sahil1616" target="blank"><img align="center" src="https://is.gd/Kv4hkS" alt="" height="40" width="40" /></a>&nbsp;
