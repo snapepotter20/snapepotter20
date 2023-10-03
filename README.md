@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sahil Kumar</h1>
-<h3 align="left">Tech Enthusiastic and motivated developer having good knowledge in front end development as well as I am a competitive programmer.</h3>
+<h3 align="left">I'm a tech enthusiast and a motivated developer with a strong background in frontend development, coupled with proficiency in Data structures and algorithms.</h3>
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snapepotter20" alt="snapepotter20" /></a> </p>
